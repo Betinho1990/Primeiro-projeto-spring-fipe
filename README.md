@@ -39,7 +39,7 @@ cd fipe-explorer
 
 ```
 
-2. ** Compile e execute com Maven:
+2. **Compile e execute com Maven:**
 
 ./mvnw spring-boot:run
 
